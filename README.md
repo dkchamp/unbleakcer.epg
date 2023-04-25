@@ -4,10 +4,10 @@
 Hello! I am the creator of School Heaven, It is a website with games, music, anime, and more!  School Heaven website is still under development and I will have more things and features. If you want to suggest something use the suggest channel.
 <br><br>
 **My Socials**<br>
-Github: https://github.com/BlaizerBrumo<br>
+Github: https://github.com/Brandon421-ops<br>
 <br>
 **Access School Heaven:**<br>
-**GitHub repository:**<br> https://github.com/BlaizerBrumo/schoolheaven<br>
+**GitHub repository:**<br> https://github.com/Brandon421-ops/School-Heaven<br>
  
 # Rusty/Fallen Angel
 A simple frontend design for Corrosion you can deploy
